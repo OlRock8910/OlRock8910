@@ -46,10 +46,10 @@ d = ImageDraw.Draw(img)
 for tx, ty, label in spots:
     d.text((tx, ty), label, font=f, fill=(255, 255, 255))
 
-# One glass tile per project, staggered.
-for i, ch in enumerate(['🎬', '🇪🇸', '🏋️']):
-    cx = 800 + i * 150
-    cy = 70 + (i % 2) * 90
+# One glass tile per project.
+for i, ch in enumerate(['🎬', '🇪🇸', '🏋️', '🔦']):
+    cx = 860 + (i % 2) * 170
+    cy = 40 + (i // 2) * 150
     tile = Image.new('RGBA', (W, H), (0, 0, 0, 0))
     ImageDraw.Draw(tile).rounded_rectangle((cx, cy, cx + 136, cy + 128), 30, fill=(255, 255, 255, 34), outline=(255, 255, 255, 70), width=2)
     img = Image.alpha_composite(img, tile)
