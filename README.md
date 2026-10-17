@@ -16,8 +16,6 @@ and nothing uploaded** — everything stays on your phone. Most of them live in
 | The videos and music already on your phone, in a streaming-app layout with playlists and lock-screen controls. | Learn Spanish describing words through 19 mini games — bubble pop, word ninja, whack-a-word and more. | A gym tracker with a black-glass look: last time's weights filled in, a graph for every lift, PR celebrations. |
 | <sub>TypeScript · Capacitor</sub> | <sub>JavaScript · Android WebView</sub> | <sub>Kotlin · Jetpack Compose</sub> |
 
-🖥️ **[PC Builder](https://github.com/OlRock8910/video-player)** — a 3D PC-building simulator: open the case, seat the CPU, route the cables, power it on and benchmark it. <sub>TypeScript · Three.js</sub>
-
 ## 🛠️ What I build with
 
 <p>
@@ -27,7 +25,6 @@ and nothing uploaded** — everything stays on your phone. Most of them live in
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white">
   <img alt="Capacitor" src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white">
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
