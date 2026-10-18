@@ -34,7 +34,7 @@ and nothing uploaded** — everything stays on your phone. Most of them live in
 ## ✅ How my apps work
 
 - **Free** — no ads, no in-app purchases, no accounts.
-- **Private** — they work offline and don't upload anything.
+- **Private** — no accounts, no tracking, and they work offline (online play is optional).
 - **Tested** — every change is built and tested automatically on GitHub Actions
   before the download is updated.
 
